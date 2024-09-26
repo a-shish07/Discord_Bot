@@ -67,7 +67,7 @@ client.on('messageCreate', (message) => {
 
     // Default reply if the message doesn't match the "create" command
     message.reply({
-        content: "Hello Bhadwe, Mai papa bol rha hoon \n Provide url after create for the shortid of the url",
+        content: "Hello\n Provide url after create for the shortid of the url",
     });
 });
 
