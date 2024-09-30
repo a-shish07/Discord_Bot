@@ -72,4 +72,4 @@ client.on('messageCreate', (message) => {
 });
 
 // Log in to Discord with your bot token
-client.login(process.env.BOT_TOKEN); // Uses the token from the .env file
+client.login(process.env.BOT_TOKEN); 
